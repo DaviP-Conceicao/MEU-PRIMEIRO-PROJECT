@@ -75,8 +75,9 @@ MeuJogo1.0/
 ## 🚀 Como Executar  
 
 1. Clone o repositório  
-2. Abra o projeto no NetBeans ou em qualquer IDE  
-3. Execute a classe **GameWindow.java**  
+2. Abra o projeto no NetBeans, Vscode ou em qualquer IDE
+3. È necessario ter o java instalado e o JDK no sistema operacional!
+4. Execute a classe **GameWindow.java**  
 
 Ou execute o JAR diretamente:  
 
@@ -115,3 +116,4 @@ Projeto pessoal desenvolvido por Davi Paulino Conceição - 2025
 Tutorial do YouTube de desenvolvimento de jogos em Java → https://www.youtube.com/playlist?list=PLlW3qrNjsvBwUmUk9kio7bNT3GR554FH5
 
 Claude AI pelo auxílio em debugging e otimizações.
+
