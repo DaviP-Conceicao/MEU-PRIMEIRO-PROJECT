@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![IDE NetBeans](https://img.shields.io/badge/IDE-NetBeans-blue?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)  
 ![License](https://img.shields.io/badge/license-Personal-green?style=for-the-badge)  
-![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow?style=for-the-badge)  
+
 
 Um jogo de nave espacial desenvolvido em **Java** com **Swing/AWT**, onde o jogador deve sobreviver a ondas de inimigos e derrotar o chefe final.  
 
@@ -116,4 +116,5 @@ Projeto pessoal desenvolvido por Davi Paulino Conceição - 2025
 Tutorial do YouTube de desenvolvimento de jogos em Java → https://www.youtube.com/playlist?list=PLlW3qrNjsvBwUmUk9kio7bNT3GR554FH5
 
 Claude AI pelo auxílio em debugging e otimizações.
+
 
